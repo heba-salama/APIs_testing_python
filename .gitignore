@@ -6,3 +6,4 @@ venv/
 Pipfile
 *.log
 *.lock
+.tutorial-env
